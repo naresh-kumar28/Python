@@ -184,27 +184,39 @@ Q.22 Write a program to find the LCM (Least Common Multiple) of two given number
 
 
 
-Q.23 Write a program to calculate the area of a triangle using its base and height.
+Q.23 Write a program to find the HCF (Highest Common Factor) of two given numbers.
 
 
 
-Q.24 Write a program to convert distance from kilometers to miles.
+Q.24 Write a program to calculate the area of a triangle using its base and height.
 
 
 
-Q.25 Write a program to convert temperature from Celsius to Fahrenheit.
+Q.25 Write a program to find area of circle
 
 
 
-Q.26 Write a program to print all prime numbers within a given interval.
+Q.26 Write a program to convert kilometers to miles.
 
 
 
-Q.27 Write a program to convert a decimal number into its binary, octal, and hexadecimal equivalents.
+Q.27 Write a program to convert Fahrenheit to Celsius.
 
 
 
-Q.28 Write a program to merge two dictionaries into one
+Q.28 Write a program to convert Celsius to Fahrenheit.(Body ka Tempture Fahrenheit Me Calculate hota hai)
+
+
+
+Q.29 Write a program to print all prime numbers within a given interval.
+
+
+
+Q.30 Write a program to convert a decimal number into its binary, octal, and hexadecimal equivalents.
+
+
+
+Q.31 Write a program to merge two dictionaries into one
 
 
 
@@ -214,23 +226,23 @@ Q.28 Write a program to merge two dictionaries into one
 
 
 
-Q-22. W.A.P to accept two numbers from the user and print the largest number (> operator)
+Q-31. W.A.P to accept two numbers from the user and print the largest number (> operator)
 
 
 
-Q-23. W.A.P to accept three numbers from the user and print the smallest number (< operator)
+Q-32. W.A.P to accept three numbers from the user and print the smallest number (< operator)
 
 
 
-Q-24. W.A.P to accept the user’s age and check if the user is eligible to vote in INDIA (>= operator)
+Q-33. W.A.P to accept the user’s age and check if the user is eligible to vote in INDIA (>= operator)
 
 
 
-Q-25. W.A.P to accept the user’s age and check if the user is eligible for marriage (<= operator)
+Q-34. W.A.P to accept the user’s age and check if the user is eligible for marriage (<= operator)
 
 
 
-Q-26. Phone Lock/Unlock System (== operator)
+Q-35. Phone Lock/Unlock System (== operator)
 
 
 
@@ -249,12 +261,7 @@ Q-26. Phone Lock/Unlock System (== operator)
 
 
 
-
-
-
 ==========================================================================================
-
-
 
 
 
@@ -421,7 +428,6 @@ Q- W.A.P TO PRINT ALL PRIME NUMBER BETWEEN A GIVEN RANGE FORM THE USER
 
 
 
-
 Q-W.A.P TO TAKE FIVE NUMBERS FORM THE USER AND ADD ONLY EVEN NUMBER
 
 
@@ -434,8 +440,6 @@ Q=> W.A.P TO TAKE FIVE NUMBERS FORM THE USER AND ADD EVEN \& ODD NUMBER AND PRIN
 
 
 
-
-
 Q- W.A.P TO PRINT ALL EVEN NO BETWEEN A GIVEN RANGE FORM THE USER
 
 
@@ -445,8 +449,6 @@ Q- W.A.P TO PRINT ALL ODD NO BETWEEN A GIVEN RANGE FORM THE USER
 
 
 Q=> W.A.P TO PRINT ALL EVEN \& ODD NO BETWEEN A GIVEN RANGE FORM THE USER
-
-
 
 
 
@@ -545,4 +547,3 @@ GOOGLE TRANSLATOR
 PYTHON FILE TO CONVERT MOBILE APP
 
 SCREEN RECORDER
-
